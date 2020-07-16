@@ -1,6 +1,6 @@
 # File: user_run_SDM.r
 # Purpose: Run a new, full SDM model (all steps)
-# Nathan testing git
+
 library(here)
 rm(list=ls())
 
